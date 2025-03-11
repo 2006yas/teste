@@ -1,2 +1,2 @@
 # teste
-Repositório Testre
+Repositório Teste
